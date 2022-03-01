@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.arrow.support.colorpicker;
+package com.kraken.support.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;
